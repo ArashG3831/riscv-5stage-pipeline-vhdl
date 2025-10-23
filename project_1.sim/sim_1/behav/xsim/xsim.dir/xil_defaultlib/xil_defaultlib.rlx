@@ -1,0 +1,13 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sim_1/new/CPU_tb.vhd,1748439761,vhdl,,,,cpu_tb,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/ALU.v,1748184429,vhdl,,,,alu,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/CPU.vhd,1748184490,vhdl,,,,cpu,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/ControlUnit.vhd,1748184366,vhdl,,,,controlunit,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/DataMemory.vhd,1748434509,vhdl,,,,datamemory,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/ImmediateGenerator.vhd,1748184401,vhdl,,,,immediategenerator,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/InstructionMemory.vhd,1748437985,vhdl,,,,instructionmemory,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/ProgramCounter.vhd,1748184296,vhdl,,,,programcounter,,,,,,,,
+C:/Users/Asus/Desktop/project_1/project_1.srcs/sources_1/new/RegisterFile.vhd,1748184394,vhdl,,,,registerfile,,,,,,,,
