@@ -107,7 +107,3 @@ lw   x3,3(x1)      # load from 8 -> x3 = 42
   *.log
   ```
 
----
-
-## License
-MIT (code) • Figures and report: CC‑BY‑4.0
