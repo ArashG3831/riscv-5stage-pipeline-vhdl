@@ -96,14 +96,5 @@ lw   x3,3(x1)      # load from 8 -> x3 = 42
 - VHDL is written in **VHDL‑2008** and targets **Xilinx XSim** for simulation.  
 - `x0` is preserved by gating writes (`rd ≠ 0`).  
 - For new programs, encode instructions to machine code and update the IMEM initialization.  
-- Keep build artifacts out of Git with a simple `.gitignore` (example):  
-  ```gitignore
-  /.Xil/
-  /project_1.cache/
-  /project_1.hw/
-  /project_1.sim/
-  /project_1.ip_user_files/
-  *.jou
-  *.log
-  ```
+
 
